@@ -1,6 +1,6 @@
 # 🍷 Veylora Fine Dining
 
-A modern, elegant, and fully responsive web application designed for a luxury fine dining restaurant. Crafted with meticulous attention to detail, smooth user interactions, and a sophisticated aesthetic.
+A modern, elegant, and fully responsive web application built with **React** for a luxury fine dining restaurant. Crafted with meticulous attention to detail, smooth user interactions, and a sophisticated aesthetic.
 
 ---
 
@@ -17,8 +17,9 @@ A modern, elegant, and fully responsive web application designed for a luxury fi
 
 ## 🛠️ Tech Stack
 
-- **HTML5 & CSS3** (Advanced Layouts, Flexbox, & Grid)
-- **JavaScript** (Interactive UI components & smooth logic)
+- **React.js** (Component-based architecture)
+- **CSS3 / Tailwind CSS / Styled Components** (Modern styling & layout)
+- **JavaScript (ES6+)** (Interactive UI components & logic)
 - **Responsive Design Principles** (Cross-device compatibility)
 
 ---
