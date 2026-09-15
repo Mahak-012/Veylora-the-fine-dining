@@ -1,16 +1,32 @@
-# React + Vite
+# 🍷 Veylora Fine Dining
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, elegant, and fully responsive web application designed for a luxury fine dining restaurant. Crafted with meticulous attention to detail, smooth user interactions, and a sophisticated aesthetic.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- **Hero Section:** Immersive entry with striking visuals and a welcoming ambiance.
+- **Interactive Menu:** Clean categorization of gourmet dishes with pricing and descriptions.
+- **Reservation System:** Seamless table booking interface for guests.
+- **Our Story:** Captivating brand narrative section highlighting the culinary philosophy.
+- **Gallery & Bento Grid:** Modern layout showcasing the restaurant's interior, dishes, and mood.
+- **Fully Responsive:** Optimized for all devices, from mobile phones to wide desktop screens.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- **HTML5 & CSS3** (Advanced Layouts, Flexbox, & Grid)
+- **JavaScript** (Interactive UI components & smooth logic)
+- **Responsive Design Principles** (Cross-device compatibility)
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally, follow these simple steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Mahak-012/Veylora-the-fine-dining.git](https://github.com/Mahak-012/Veylora-the-fine-dining.git)
