@@ -18,12 +18,12 @@ export default function Navbar() {
   const [active, setActive] = useState('home')
   const [isMobile, setIsMobile] = useState(false)
 
-  // Screen resize detect karne ke liye taake burger sirf choti screens par aaye
+
   useEffect(() => {
     const handleResize = () => {
       setIsMobile(window.innerWidth < 768)
       if (window.innerWidth >= 768) {
-        setOpen(false) // Badi screen hone par mobile menu close kar do
+        setOpen(false) 
       }
     }
     handleResize()
@@ -130,7 +130,7 @@ export default function Navbar() {
             </span>
           </button>
 
-          {/* Desktop Links (Sirf bari screen par dikhenge) */}
+          {/* Desktop  */}
           <div style={{ display: isMobile ? 'none' : 'flex', alignItems: 'center', gap: 4 }}>
             {LINKS.map(l => (
               <button
