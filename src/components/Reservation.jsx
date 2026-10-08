@@ -8,7 +8,9 @@ const WA_GREEN = '#25D366'
 const EASE    = [0.22, 1, 0.36, 1]
 
 /* ═══════════════════════════════════════════════
-
+   ⚠️ APNA WHATSAPP NUMBER YAHAN DALEIN
+   (Menu.jsx jaisa hi — bina + ke)
+   ═══════════════════════════════════════════════ */
 const WHATSAPP_NUMBER = '923001234567'
 const PHONE_DISPLAY   = '+92 300 1234567'
 
